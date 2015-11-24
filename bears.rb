@@ -28,6 +28,7 @@ class Bear
 
 
   def take_fish_from
+    @river.fish_1.pop
 
     
   end
